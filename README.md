@@ -1,2 +1,2 @@
 # Welcome, name's **Codedgar** (:computer::dark_sunglasses: :smirk_cat:)
-Hi, My name's **Edwin Hernández**. And my job is to be an engineering student  **stunning looking websites** and **web applications**.
+Hi, My name's **Edwin Hernández**. And my job is to be a student  **stunning looking websites**
