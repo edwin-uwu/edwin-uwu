@@ -13,6 +13,13 @@
       </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details align="center">
+<summary><samp>extend</samp></summary>
+
+<h2></h2><br>
 <!-- Github Stats -->
 <p align="center">
     <samp>
