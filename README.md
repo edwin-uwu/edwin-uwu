@@ -17,7 +17,6 @@
 <br>
 
 <details align="center">
-<summary><samp>extend</samp></summary>
 
 <h2></h2><br>
 <!-- Github Stats -->
