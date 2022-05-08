@@ -1,5 +1,3 @@
-Hi, My name's **Edwin**. And my job is to be a student  **"Computer Systems Engineering"**
-
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp><br>
