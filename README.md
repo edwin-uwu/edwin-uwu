@@ -28,5 +28,7 @@
           <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edwin-uwu&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=nord"/>
   <br/>
   <summary>My Stat</summary>
-  <br>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</br>
+  <br>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-uwu&layout=compact&theme=nord&count_private=true">
+  </br>
 </details>
