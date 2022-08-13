@@ -4,12 +4,13 @@
             <b>
             Hello There
         <br>
-            I'm Edwin, a Student, and code enthusiast..a
+            I'm Edwin, a Student, and code enthusiast..
         </b>
         <br>
         <br>
           <image src="https://readme-typing-svg.herokuapp.com?color=AA18F7&lines=I'm+an+Indie+Developer">
         <br>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-uwu&layout=compact&theme=nord&count_private=true">
       </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
