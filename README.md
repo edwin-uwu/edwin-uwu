@@ -8,7 +8,9 @@
         </b>
         <br>
         <br>
+          <center>
           <image src="https://readme-typing-svg.herokuapp.com?color=AA18F7&lines=I'm+an+Indie+Developer">
+          </center>
         <br>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-uwu&layout=compact&theme=nord&count_private=true">
       </samp><br>
