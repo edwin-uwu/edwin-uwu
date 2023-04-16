@@ -15,7 +15,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
-
+<figure><embed src="https://wakatime.com/share/@Poke/371425bb-d5e1-41b2-a11f-893993bc38cc.svg"></embed></figure>
 <details align="center">
 
 <h2></h2><br>
