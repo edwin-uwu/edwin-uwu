@@ -10,7 +10,7 @@
         <br>
           <image src="https://readme-typing-svg.herokuapp.com?color=AA18F7&lines=I'm+an+Indie+Developer">
         <br>
-              <figure><embed src="https://wakatime.com/share/@Poke/371425bb-d5e1-41b2-a11f-893993bc38cc.svg"></embed></figure>
+              <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Poke/0055009b-5521-43c7-9d65-1187aa64bda8.png" /></a>
           <br>
       </samp><br>
     </p>
