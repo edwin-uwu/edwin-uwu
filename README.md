@@ -1,6 +1,8 @@
 <div align="center">
     <h1 align="center">Hola, soy Edwin 👋</h1>
 </div>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
