@@ -1,8 +1,18 @@
 <div align="center">
     <h1 align="center">Hola, soy Edwin 👋</h1>
+    <a href="https://linkedin.com/in/hernandez-edwin" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
 </div>
+### 🛠 &nbsp;Tecnologías Utilizadas
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
