@@ -21,6 +21,7 @@
 
 <br>
 <details align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=edwin-uwu&theme=juicyfresh&no-bg=true">
 
 <h2></h2><br>
 <!-- Github Stats -->
